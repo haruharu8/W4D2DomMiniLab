@@ -1,0 +1,12 @@
+h1 {
+    color:cornflowerblue;
+    font-family: monospace;
+}
+
+button {
+    color: blanchedalmond;
+    font-family: 'Times New Roman', Times, serif;
+    size: 150px;
+    background-color: black;
+    border-radius: 20px;
+}
